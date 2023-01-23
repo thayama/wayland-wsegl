@@ -45,7 +45,7 @@
 #endif
 #include "waylandws.h"
 #include "waylandws_client.h"
-#include "libkms.h"
+#include "kms_dumb.h"
 #include "wayland-kms-client-protocol.h"
 #include "wayland-kms.h"
 
